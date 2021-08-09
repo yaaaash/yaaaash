@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Manwani</h1>
 <h3 align="center">A passionate programmer from India</h3>
+<h5 align="center"> Hey, I am currently pursuing BTech in Computer Science and Engineering from NIT Bhopal. I am interested in coding, chess and cryptocurriencies. I love to learn new programming languages. I'm dedicated, passionate and willing to work on my skills in a challenging environment.</h5>
 
 - 📫 How to reach me **yashmanwani13@gmail.com**
 
